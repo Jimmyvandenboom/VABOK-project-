@@ -32,3 +32,9 @@ GitHub Pages is op zichzelf geen privéomgeving: gepubliceerde bestanden en star
 ## Validatie
 
 Uitgevoerd met Playwright en Chromium: navigatie; toevoegen, bewerken en verwijderen in alle verzamelingen; taken afronden/heropenen; zoeken/statusfilter; vervolgactie naar taak; vastpinnen; veilige tekstweergave en documentlinks; bewaring na herladen; JSON-export/import; afwijzing van onvolledige back-ups en onveilige links; bewust lege verzamelingen na herladen; afhandeling van een gesimuleerde opslagfout; mobiele weergave op 375 pixels en desktop op 1280 pixels. Geen JavaScript-fouten gevonden. Ook `node --check app.js` en HTTP-verzoeken voor de appbestanden slagen. Browsercontroles gebruiken een apart testprofiel en staan buiten de repository; er zijn geen testdependencies toegevoegd. Een toekomstige wijziging kan opnieuw getest worden door de lokale server te starten en invoer, bewerking, verwijdering, statuswijzigingen, herladen en JSON-back-ups te controleren. Controleer ook op 375 pixels breed.
+
+## Projectupdate 13 oktober 2026
+
+De pagina **Projectupdate** bevat de samenvatting van de aangeleverde samenwerkingsovereenkomst, de startbijeenkomst op 6 november (11.30–12.30 uur), projectleiders, financieringskader, rol-/urenvragen en vervolgtaken. Klik op **Nieuwe informatie toevoegen** om de items aan je lokale gegevens toe te voegen. Bestaande gegevens worden niet overschreven; herhaald toevoegen dupliceert dezelfde update niet. Bewust lege verzamelingen blijven bij herladen leeg. Na het zelf verwijderen van een update-item kun je het via deze knop opnieuw toevoegen.
+
+De oorspronkelijke ondertekende PDF, Teams-deelnamegegevens en het persoonlijke nieuwsbriefadres worden niet gepubliceerd. De bedragen zijn afkomstig uit de overeenkomst bij de aanvraag, niet uit een bevestigde beschikking. Automatische e-mail/nieuwsbrief is nog niet gekoppeld.
